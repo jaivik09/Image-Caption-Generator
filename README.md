@@ -8,8 +8,9 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Tech Stack](#usage)
+- [System Design](#installation)
+- [Usage](#usage)
+- [Result](#result)
 
 ## Introduction
 
